@@ -1,3 +1,4 @@
-#!/usr/bin/env python
-print "echo"
+#!/usr/bin/env bash
+printf "echo"
+
 
